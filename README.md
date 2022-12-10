@@ -26,7 +26,7 @@ Task                 | Due date              | PDF file          | Solution
 **Assignment III**   | November 14, 2022     | [pdf](https://drive.google.com/file/d/1sbkAN_rn_Zh7ei3-cVR2uEVgBxW99n23/view?usp=share_link)   | TBA
 **Assignment IV**    | November 29, 2022      | [pdf](https://drive.google.com/file/d/1ZnqgPGdb0W2K0O_m5bC3vSH3SCK7kaQY/view?usp=share_link)   | TBA
 **Assignment V**     | December 12, 2022      | [pdf](https://drive.google.com/file/d/1NYY7uMvlG6PBtDo6V45K7WXabv0BvOAH/view?usp=sharing)   | TBA
-**Final Project**    | December 14, 2022      | [pdf](https://drive.google.com/file/d/14nevUMYiX4AABKrmKq4oC-Ty2PmeF8Gu/view?usp=sharing)   | -
+**Final Project**    | December 14, 2022      |:---:   | -
 
 ## Instructions for Settings
 ### Install Anaconda3 and Jupyter Notebook
